@@ -6,4 +6,4 @@
 
 _Domain claimed: curriculoom.com_  
 _Bundle ID: com.curriculoom.app (reserved)_  
-_Created: [Today's Date]_
+_Created: 5/17/2025_
